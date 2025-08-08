@@ -32,5 +32,5 @@ A complete object-oriented **E-Booking Platform** implemented in C++, simulating
 
 ---
 
-## 📂 File Structure
+
 
